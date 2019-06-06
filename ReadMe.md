@@ -7,10 +7,6 @@ University, Louisiana, The Department of Archives, Louisiana State University
 March, 1941
 
 POSSIBLE USES:
-Using and improving on this dataset is strongly encouraged. Possible uses for this dataset include, but are not limited to, statistical and spatial analysis as well as research in the fields of religious studies, urban studies, urban development, geography, and race relations in New Orleans.
- 
-
-LICENSE: Attribution Share Alike (CC BY-SA)
- 
+Using and improving on this dataset is strongly encouraged. Possible uses for this dataset include, but are not limited to, statistical and spatial analysis as well as research in the fields of religious studies, urban studies, urban development, geography, and race relations in New Orleans. 
 
 For comments or questions about this dataset, please contact at genevieve [dot] milliken [at] gmail [dot] com 
