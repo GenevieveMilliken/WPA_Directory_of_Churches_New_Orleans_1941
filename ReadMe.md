@@ -12,6 +12,8 @@ The original directory was prepared by the Historical Records Survey, Community 
 ## Possible Uses
 Using this dataset is strongly encouraged. Possible (re)uses include, but are not limited to, statistical and spatial analysis as well as research in the fields of religious studies, urban studies, urban development, geography, and race relations in New Orleans. 
 
-For comments or questions about this dataset, please contact at genevieve [dot] milliken [at] gmail [dot] com 
+For comments or questions about this dataset, please contact at genevieve [dot] milliken [at] gmail [dot] com
+
+Dataset is CC-BY-SA-4.0
 
 ![ArcGISStoryMap](Image_ArcGIS_StoryMap.jpg)
