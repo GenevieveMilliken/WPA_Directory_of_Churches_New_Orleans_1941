@@ -6,7 +6,7 @@ This dataset was compiled for a digital humanities project taken at Pratt Instit
 ## Projects 
 WPA dataset was used for this [ArcGIS Story Map](https://www.arcgis.com/apps/Cascade/index.html?appid=b3a2f898c0ac49819c6faf09e9d80603) about the religious landscape of New Orleans during the New Deal. 
 
-This data was also mapped with [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) data to show that readlining often occured in black communities, where black churches were located. You can view the map of redlining in relation to church location [here](http://www.arcgis.com/home/webmap/viewer.html?webmap=6f1bbb334220417295f97d3019ff83cd) and also read more about the process of making this map in this [NYARC blog post](http://nyarc.org/content/attending-digital-humanities-summer-institute-dhsi). 
+This data was also mapped with [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) data to show that readlining often occurred in black communities, where black churches were located. You can view the map of redlining in relation to church location [here](http://www.arcgis.com/home/webmap/viewer.html?webmap=6f1bbb334220417295f97d3019ff83cd) and also read more about the process of making this map in this [NYARC blog post](http://nyarc.org/content/attending-digital-humanities-summer-institute-dhsi). 
 
 ## Data Source 
 ***Directory of Churches and Religious Organizations in New Orleans, 1941***
